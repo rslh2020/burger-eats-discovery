@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Rony Henrique",
+    "cpf": "02011100042",
+    "email": "rony@gmail.com",
+    "whatsapp": "1188888888",
+    "address": {
+      "postalcode": "72311107",
+      "number": "31",
+      "details": "Casa",
+      "street": "QR 327 Conjunto 7",
+      "district": "Samambaia Sul (Samambaia)",
+      "city_state": "Brasília/DF"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Livia Castro",
+    "cpf": "x2011100042",
+    "email": "rony@gmail.com",
+    "whatsapp": "1188888888",
+    "address": {
+      "postalcode": "72311107",
+      "number": "31",
+      "details": "Casa",
+      "street": "QR 327 Conjunto 7",
+      "district": "Samambaia Sul (Samambaia)",
+      "city_state": "Brasília/DF"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Livia Castro",
+    "cpf": "00000000042",
+    "email": "rony.silva.com",
+    "whatsapp": "1188888888",
+    "address": {
+      "postalcode": "72311107",
+      "number": "31",
+      "details": "Casa",
+      "street": "QR 327 Conjunto 7",
+      "district": "Samambaia Sul (Samambaia)",
+      "city_state": "Brasília/DF"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
